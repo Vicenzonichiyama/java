@@ -4,7 +4,7 @@ public class CalculadoraArray {
         Scanner scanner = new Scanner(System.in);
         int[] numbers;
         int size,first,second;
-        //System.out.print("What # of numbers do you want?: "); | size = scanner.nextInt();
+       
         size = 10;
         scanner.nextLine();
         numbers = new int[size];
